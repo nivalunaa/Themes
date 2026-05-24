@@ -16,6 +16,7 @@ Minecraft-inspired light theme for Prism Launcher with cool diamond-blue accents
 MIT License
 
 Copyright (c) 2026 Nursultan Akim
+Copyright (c) Microsoft Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
