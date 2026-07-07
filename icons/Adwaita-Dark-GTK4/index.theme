@@ -1,0 +1,11 @@
+[Icon Theme]
+Name=Adwaita Dark GTK4
+Comment=Adwaita Dark icons
+Inherits=flat_white
+Directories=scalable
+
+[scalable]
+Size=48
+Type=Scalable
+MinSize=16
+MaxSize=256
